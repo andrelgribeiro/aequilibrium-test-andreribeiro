@@ -1,0 +1,14 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="standardUsername">standard_user</entry>
+    <entry key="standardPassword">secret_sauce</entry>
+
+    <entry key="lockedUsername">locked_out_user</entry>
+    <entry key="lockedPassword">secret_sauce</entry>
+
+    <entry key="problemUsername">problem_user</entry>
+    <entry key="problemPassword">secret_sauce</entry>
+
+    <entry key="performanceUsername">performance_glitch_user</entry>
+    <entry key="performancePassword">secret_sauce</entry>        
+</properties>
